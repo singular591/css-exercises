@@ -1,0 +1,22 @@
+
+/* Could make an all "*" selector here 
+but I believe than in a actual
+pages you would and it's better to
+be precise  */
+
+.button         {
+font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+
+.button.first   {
+    background-color: black;
+    color: white;
+
+}
+
+.button.second  {
+    background-color: yellow;
+}
