@@ -12,11 +12,15 @@
 
 }
 
+
+
 .odd    {
     background-color: #f5bac4;
     font-family: Verdana, DejaVuSans, sans-serif;
 }
 
-
+.odd.plus   {
+    font-size: 24px;
+}
 
 
